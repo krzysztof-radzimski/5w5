@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wydobywanie źródeł 5w5"
+  short_description: "Wydobywa Biblię i komentarz dla fragmentu"
+  default_prompt: "Użyj $extract-5w5-sources, aby wydobyć tekst Biblii i odpowiadającą mu sekcję komentarza dla wskazanego fragmentu."
