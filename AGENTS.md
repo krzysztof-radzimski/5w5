@@ -83,9 +83,9 @@ Plik ma mieć dokładnie pięć głównych części:
 
 ## 2. Struktura
 
-## 3. GFM + ORPS
+## 3. GMF + ORPS
 
-**GFM:** ...
+**GMF:** ...
 
 **ORPS:** ...
 
@@ -102,9 +102,9 @@ Umieść fragment w toku argumentacji księgi oraz w jego sytuacji historycznej 
 
 Przedstaw syntetyczny podział fragmentu. Każdy element powinien zawierać zakres wersetów oraz krótkie określenie funkcji danej części w argumentacji. Nie powtarzaj całego tekstu biblijnego i nie rozbudowuj tej sekcji w komentarz werset po wersecie.
 
-### 3. GFM + ORPS
+### 3. GMF + ORPS
 
-- **GFM (główna myśl fragmentu):** jedno pełne, możliwie precyzyjne zdanie streszczające nadrzędne twierdzenie autora i funkcję fragmentu. Ma wynikać ze struktury oraz uwzględniać najważniejsze relacje logiczne tekstu.
+- **GMF (główna myśl fragmentu):** jedno pełne, możliwie precyzyjne zdanie streszczające nadrzędne twierdzenie autora i funkcję fragmentu. Ma wynikać ze struktury oraz uwzględniać najważniejsze relacje logiczne tekstu.
 - **ORPS (oczekiwana reakcja pierwotnego słuchacza):** jedno pełne zdanie określające, jak pierwotni adresaci mieli odpowiedzieć na przesłanie fragmentu — w przekonaniach, postawie lub działaniu.
 
 Nie mieszaj ORPS ze współczesnym zastosowaniem. Najpierw ustal zamysł autora wobec pierwotnych odbiorców, dopiero potem przejdź do dzisiejszych czytelników.
@@ -115,7 +115,7 @@ Pokaż, jak przesłanie fragmentu wpisuje się w rozwój i całość przesłania
 
 ### 5. Zastosowanie
 
-Wyprowadź z GFM i ORPS konkretną, współczesną reakcję. Zachowaj ten sam kierunek przesłania, który tekst miał wobec pierwotnych odbiorców, uwzględniając różnice między ich sytuacją a naszą. Zastosowanie może dotyczyć przekonań, postaw i działań, ale nie może zmieniać się w apel kaznodziejski, osobiste świadectwo ani serię retorycznych pytań.
+Wyprowadź z GMF i ORPS konkretną, współczesną reakcję. Zachowaj ten sam kierunek przesłania, który tekst miał wobec pierwotnych odbiorców, uwzględniając różnice między ich sytuacją a naszą. Zastosowanie może dotyczyć przekonań, postaw i działań, ale nie może zmieniać się w apel kaznodziejski, osobiste świadectwo ani serię retorycznych pytań.
 
 ## Styl i objętość
 
@@ -134,7 +134,7 @@ Wyprowadź z GFM i ORPS konkretną, współczesną reakcję. Zachowaj ten sam ki
 3. Znajdź w głównym `Commentary.md` sekcję obejmującą fragment i przeczytaj ją w całości, także jej omówienie struktury i podsumowanie.
 4. Utwórz katalog fragmentu oraz `Bible.md`.
 5. Przygotuj wierny wyciąg w lokalnym `Commentary.md`.
-6. Ustal strukturę, GFM i ORPS, a następnie napisz pozostałe części `5w5.md`.
+6. Ustal strukturę, GMF i ORPS, a następnie napisz pozostałe części `5w5.md`.
 7. Przeprowadź kontrolę jakości przed zakończeniem.
 
 ## Automatyczne wydobywanie źródeł
@@ -152,7 +152,7 @@ Przed oddaniem opracowania sprawdź:
 - czy lokalny `Commentary.md` zawiera wyłącznie adekwatny materiał i jasno oznacza skróty;
 - czy `5w5.md` ma dokładnie pięć wymaganych części;
 - czy struktura opisuje tok fragmentu, a nie tylko jego tematy;
-- czy GFM jest jednym zdaniem i obejmuje główny punkt całego fragmentu;
+- czy GMF jest jednym zdaniem i obejmuje główny punkt całego fragmentu;
 - czy ORPS dotyczy pierwotnych odbiorców, a zastosowanie odbiorców współczesnych;
 - czy teologia biblijna wynika z tekstu i uwzględnia szerszy kontekst kanoniczny;
 - czy żadna istotna teza egzegetyczna nie przeczy `Commentary.md` ani nie została zmyślona;

@@ -14,7 +14,7 @@ Opracowania nie są kazaniami ani rozważaniami dewocyjnymi. Mają realizować p
 
 1. **Kontekst** — umiejscowić fragment w sytuacji historycznej, literackiej i w toku argumentacji księgi.
 2. **Struktura** — syntetycznie pokazać budowę i rozwój myśli fragmentu.
-3. **GFM + ORPS** — sformułować główną myśl fragmentu oraz oczekiwaną reakcję pierwotnego słuchacza.
+3. **GMF + ORPS** — sformułować główną myśl fragmentu oraz oczekiwaną reakcję pierwotnego słuchacza.
 4. **Teologia biblijna** — wyjaśnić, jak fragment wpisuje się w szerszy kontekst i przesłanie Biblii.
 5. **Zastosowanie** — wskazać, jak na przesłanie fragmentu powinni odpowiedzieć ludzie żyjący współcześnie.
 
@@ -53,9 +53,9 @@ Każdy fragment otrzymuje osobny katalog wewnątrz katalogu księgi. Skróty ksi
 
 ## 2. Struktura
 
-## 3. GFM + ORPS
+## 3. GMF + ORPS
 
-**GFM:** Główna myśl fragmentu w jednym zdaniu.
+**GMF:** Główna myśl fragmentu w jednym zdaniu.
 
 **ORPS:** Oczekiwana reakcja pierwotnego słuchacza w jednym zdaniu.
 
@@ -64,7 +64,7 @@ Każdy fragment otrzymuje osobny katalog wewnątrz katalogu księgi. Skróty ksi
 ## 5. Zastosowanie
 ```
 
-**GFM** opisuje nadrzędne twierdzenie autora i funkcję badanego tekstu. **ORPS** określa odpowiedź, której autor oczekiwał od pierwszych adresatów. Dopiero część „Zastosowanie” przenosi ten kierunek odpowiedzi do sytuacji współczesnego czytelnika.
+**GMF** opisuje nadrzędne twierdzenie autora i funkcję badanego tekstu. **ORPS** określa odpowiedź, której autor oczekiwał od pierwszych adresatów. Dopiero część „Zastosowanie” przenosi ten kierunek odpowiedzi do sytuacji współczesnego czytelnika.
 
 ## Sposób użycia
 
