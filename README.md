@@ -44,10 +44,12 @@ Każdy fragment otrzymuje osobny katalog wewnątrz katalogu księgi. Skróty ksi
 - `Commentary.md` — adekwatny wyciąg ze źródłowego komentarza;
 - `5w5.md` — właściwe opracowanie w pięciu częściach.
 
+Nazwy katalogów zapisuje się z przecinkiem i zwykłym łącznikiem, np. `2Tm 2,20-26`, ponieważ nie mogą zawierać dwukropka. Wewnątrz `5w5.md` odnośniki biblijne używają natomiast dwukropka między rozdziałem a wersetem, np. `2Tm 2:20–26`.
+
 ## Format pliku `5w5.md`
 
 ```markdown
-# 2Tm 2,20–26 — 5w5
+# 2Tm 2:20–26 — 5w5
 
 ## 1. Kontekst
 

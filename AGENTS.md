@@ -50,7 +50,7 @@ Przykład:
     └── 5w5.md
 ```
 
-W nazwach katalogów używaj skrótu z `Bible.json`, przecinka między rozdziałem a wersetem oraz zwykłego łącznika `-` w zakresie wersetów. Dla zakresu między rozdziałami stosuj zapis np. `2Tm 1,15-2,7`.
+W nazwach katalogów używaj skrótu z `Bible.json`, przecinka między rozdziałem a wersetem oraz zwykłego łącznika `-` w zakresie wersetów. Dla zakresu między rozdziałami stosuj zapis np. `2Tm 1,15-2,7`. W nazwach plików i katalogów nigdy nie używaj dwukropka.
 
 Nie nadpisuj bez sprawdzenia istniejącego opracowania ani ręcznych zmian użytkownika. Jeśli katalog już istnieje, najpierw przeczytaj jego zawartość i zmieniaj wyłącznie to, czego dotyczy polecenie.
 
@@ -75,6 +75,8 @@ Nie nadpisuj bez sprawdzenia istniejącego opracowania ani ręcznych zmian użyt
 ## Obowiązkowa struktura `5w5.md`
 
 Plik ma mieć dokładnie pięć głównych części:
+
+Wewnątrz `5w5.md` — w tytule, strukturze i wszystkich odwołaniach biblijnych — oddzielaj rozdział od wersetu dwukropkiem, np. `2Tm 2:20`, `2Tm 2:20–26` oraz `2Tm 1:15–2:7`. Ta zasada dotyczy treści pliku, nie nazw plików ani katalogów.
 
 ```markdown
 # <ODNOŚNIK> — 5w5
@@ -148,6 +150,7 @@ Automatycznie wydobyty komentarz jest najmniejszą pełną sekcją lub zestawem 
 Przed oddaniem opracowania sprawdź:
 
 - czy odnośnik, nazwy katalogów i zakres wersetów są zgodne;
+- czy wszystkie odnośniki biblijne wewnątrz `5w5.md` używają dwukropka między rozdziałem a wersetem, a nazwy katalogów używają przecinka;
 - czy w `Bible.md` nie brakuje żadnego wersetu i czy tekst jest identyczny z `Bible.json`;
 - czy lokalny `Commentary.md` zawiera wyłącznie adekwatny materiał i jasno oznacza skróty;
 - czy `5w5.md` ma dokładnie pięć wymaganych części;
