@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Logo 5w5" width="160">
+</p>
+
 # 5w5
 
 **Pięć najważniejszych punktów o fragmencie Biblii — do przeczytania w pięć minut.**

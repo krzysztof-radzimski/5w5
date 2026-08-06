@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Logo projektu 5w5</title>
+  <desc id="description">Cyfra pięć na tarczy czasu nad otwartą, kolorową Biblią.</desc>
+
+  <rect x="16" y="16" width="480" height="480" rx="104" fill="#111936"/>
+
+  <rect x="234" y="58" width="44" height="40" rx="12" fill="#FFB547"/>
+  <rect x="224" y="52" width="64" height="16" rx="8" fill="#FFF8E9"/>
+  <circle cx="256" cy="202" r="116" fill="#FFB547"/>
+  <circle cx="256" cy="202" r="88" fill="#FFF8E9"/>
+
+  <path d="M211 112H306V147H244L240 173C248 169 257 167 267 167C298 167 318 189 318 222C318 262 289 285 250 285C225 285 203 277 187 261L208 234C220 245 234 251 248 251C269 251 283 240 283 223C283 207 272 198 254 198C242 198 232 202 222 211L194 201L211 112Z" fill="#111936"/>
+
+  <path d="M67 274C122 247 184 250 244 282V411C191 381 128 376 67 397V274Z" fill="#20C4C7"/>
+  <path d="M445 274C390 247 328 250 268 282V411C321 381 384 376 445 397V274Z" fill="#6D5CE8"/>
+
+  <path d="M89 294C136 276 186 280 225 299V377C184 361 137 358 89 371V294Z" fill="#73E1D8"/>
+  <path d="M423 294C376 276 326 280 287 299V377C328 361 375 358 423 371V294Z" fill="#A99BFF"/>
+
+  <path d="M244 282C248 278 252 276 256 276C260 276 264 278 268 282V411C264 407 260 405 256 405C252 405 248 407 244 411V282Z" fill="#FFFFFF"/>
+  <path d="M67 397C130 376 192 381 244 411" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M268 411C320 381 382 376 445 397" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+</svg>
